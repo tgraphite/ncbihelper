@@ -1,9 +1,10 @@
-!examples/example.fasta
-!examples/example.txt
-!examples/example_parsed.txt
 examples/*.txt
 *.spec
 archived/
 dist/
 .vscode/
 __pycache__/
+
+!examples/example.fasta
+!examples/example.txt
+!examples/example_parsed.txt

@@ -1,0 +1,27 @@
+----------------------------------------
+4-BL403_BT3-LM_TSS20200729-0871-2416_F04
+Sequence for alignment | Score | E-Value | Identities | Coverage
+
+KX529007.1 Diplotomma alboatrum isolate MP5 beta-tubulin gene, pa...  1314    0.0    98%  97.6%778.0
+KX529005.1 Diplotomma venustum isolate MP46 beta-tubulin gene, pa...  1310    0.0    99%  93.8%778.0
+AF458526.1 Cladonia rappii beta-tubulin gene, partial cds             527     5e-145 80%  91.1%778.0
+AF458532.1 Cladonia caespiticia beta-tubulin gene, partial cds        521     2e-143 80%  91.3%778.0
+AF458567.1 Cladonia cenotea beta-tubulin gene, partial cds            510     5e-140 80%  91.4%778.0
+----------------------------------------
+4-BL430_BT3-LM_TSS20200729-0871-2416_G04
+Sequence for alignment | Score | E-Value | Identities | Coverage
+
+KX529004.1 Buellia erubescens isolate MP45 beta-tubulin gene, par...  1013    0.0    91%  95.9%778.0
+KX529006.1 Tetramelas chloroleucus isolate MP47 beta-tubulin gene...  1002    0.0    91%  95.1%778.0
+MG592352.1 Buellia zoharyi strain AT18 beta-tubulin gene, partial...  963     0.0    90%  97.6%778.0
+MG592351.1 Buellia zoharyi strain SA11 beta-tubulin gene, partial...  963     0.0    90%  97.6%778.0
+MG592350.1 Buellia zoharyi strain AS20 beta-tubulin gene, partial...  963     0.0    90%  97.6%778.0
+----------------------------------------
+4-BL431_BT3-LM_TSS20200729-0871-2416_H04
+Sequence for alignment | Score | E-Value | Identities | Coverage
+
+KX529004.1 Buellia erubescens isolate MP45 beta-tubulin gene, par...  1018    0.0    91%  95.9%778.0
+KX529006.1 Tetramelas chloroleucus isolate MP47 beta-tubulin gene...  1007    0.0    91%  95.1%778.0
+MG592352.1 Buellia zoharyi strain AT18 beta-tubulin gene, partial...  968     0.0    90%  97.6%778.0
+MG592351.1 Buellia zoharyi strain SA11 beta-tubulin gene, partial...  968     0.0    90%  97.6%778.0
+MG592350.1 Buellia zoharyi strain AS20 beta-tubulin gene, partial...  968     0.0    90%  97.6%778.0
