@@ -1,7 +1,9 @@
-*.fasta
-*.txt
-!example.txt
-!example_parsed.txt
-!example.fasta
-*/
+!examples/example.fasta
+!examples/example.txt
+!examples/example_parsed.txt
+examples/*.txt
 *.spec
+archived/
+dist/
+.vscode/
+__pycache__/
