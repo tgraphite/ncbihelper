@@ -3,6 +3,5 @@
 !example.txt
 !example_parsed.txt
 !example.fasta
-archived/
-dist/
+*/
 *.spec
